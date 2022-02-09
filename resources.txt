@@ -1,0 +1,11 @@
+https://acm.timus.ru/problem.aspx?num=1017
+
+https://jtp.io/2016/07/26/dynamic-programming-python.html?fbclid=IwAR0q5eQR4zeWoSAQ59t711yCmVZSwY_XkyukvMVGG9xYlYvLIjZ8u_J2R9Q
+
+https://www.programmerall.com/article/7759374717/
+
+https://portal.scitech.au.edu/thitipong/wp-content/uploads/2019/02/All-Staircases.pdf
+
+https://github.com/vladcebo/ACM-TIMUS-RU/blob/master/1017.%20Staircases.c
+
+https://portal.scitech.au.edu/thitipong/wp-content/uploads/2019/02/All-Staircases.pdf
